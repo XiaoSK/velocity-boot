@@ -1,0 +1,10 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Test page</title>
+    </head>
+    <body>
+        #test
+        $math.add(1, 1)
+    </body>
+</html>
